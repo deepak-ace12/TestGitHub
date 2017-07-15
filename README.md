@@ -1,2 +1,2 @@
 # TestGitHub
-GitHub Tutorials
+TestGitHub is a github learning project.
